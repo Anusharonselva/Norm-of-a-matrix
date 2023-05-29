@@ -54,6 +54,7 @@ print(nor_of_matrix)
 <br>
 <br>
 <br>
+
 ![Screenshot (82)](https://github.com/Anusharonselva/Norm-of-a-matrix/assets/119405600/e80ccd8c-39a9-4bff-a180-0cbd05405a12)
 
 
@@ -61,6 +62,7 @@ print(nor_of_matrix)
 <br>
 <br>
 <br>
+
 ![Screenshot (87)](https://github.com/Anusharonselva/Norm-of-a-matrix/assets/119405600/6f7341fc-5564-4dcb-bca5-b6ad6be36c93)
 
 
